@@ -32,3 +32,11 @@ Consultando la informacion dada por distintos fabricantes se encontro las siguie
 ![CircLS04](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/eb4a3db3-fba5-42f1-9917-d16cb1b0e1ae)
 2. Negador CMOS CD4069 <br />
 ![Circ4069](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/8ece8593-0b39-4f53-866c-982a0fce9f96)
+
+### Resultados obtenidos al aplicar una señal cuadrada de 1KHz a cada negador
+
+1. Negador TTL 74LS04 <br />
+ * asd
+
+
+
