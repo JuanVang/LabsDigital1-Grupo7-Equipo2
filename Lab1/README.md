@@ -1,4 +1,5 @@
 # COMPARACIÓN DE TECNOLOGÍA CMOS Y TTL
+### Especificaciones tecnicas de cada tecnologia
 Dentro de las especificaciones tecnicas de cada negador se encontro
  
    |       | Negador TTL 74LS04 | Negador CMOS CD4069 | 
@@ -15,9 +16,9 @@ Dentro de las especificaciones tecnicas de cada negador se encontro
    | tPLH  | TYP=4.5ns | TYP=55ns MAX=110ns  VDD=5V    |
    | tPHL  | TYP=5ns |  TYP=55ns MAX=110ns  VDD=5V            |
    
-## Circuito Equivalente para cada negador
+### Circuito Equivalente para cada negador
 
-1. Negador TTL 74LS04
+1. Negador TTL 74LS04 <br />
 ![CircLS04](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/eb4a3db3-fba5-42f1-9917-d16cb1b0e1ae)
-2. Negador CMOS CD4069
+2. Negador CMOS CD4069 <br />
 ![Circ4069](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/8ece8593-0b39-4f53-866c-982a0fce9f96)
