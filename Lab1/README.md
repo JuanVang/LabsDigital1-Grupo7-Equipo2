@@ -1,1 +1,1 @@
-#Comparación de tecnologia CMOS Y TTL
+# Comparación de tecnologia CMOS Y TTL
