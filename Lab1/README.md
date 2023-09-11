@@ -1,11 +1,11 @@
 # COMPARACIÓN DE TECNOLOGÍA CMOS Y TTL
-Se realizó la comparacion de 2 negadores de distintas tecnologias, dentro de las especificaciones tecnicas de cada dispositivo se encontró lo siguiente
-1. Negador TTL 74LS04
+Dentro de las especificaciones tecnicas de cada negador se encontro
+ 
+   |       | Negador TTL 74LS04 | Negador CMOS CD4069 | 
+   |-------|--------------------|---------------------|
+   | VCC   | MIN=4.5  NOM=5  MAX=5.5 | Cell 3              |
+   | VIH   | Cell 5             | Cell 6              |
+   | VIL   | Cell 8             | Cell 9              |
+   | IOH   | Cell 8             | Cell 9              |
+   | IOL   | Cell 8             | Cell 9              |
    
-   | Column 1 | Column 2 | Column 3 | 
-   |----------|----------|----------|
-   | Row 1    | Cell 2   | Cell 3   |
-   | Row 2    | Cell 5   | Cell 6   |
-   | Row 3    | Cell 8   | Cell 9   |
-
-3. 
