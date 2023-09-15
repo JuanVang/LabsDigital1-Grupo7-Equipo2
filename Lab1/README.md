@@ -36,7 +36,22 @@ Consultando la informacion dada por distintos fabricantes se encontro las siguie
 ### Resultados obtenidos al aplicar una señal cuadrada de 1KHz a cada negador
 
 1. Negador TTL 74LS04 <br />
- * asd
+![SeñalAplicadaTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/51ab7fee-34f5-4a9c-8a5a-0cd806725db7)
+
+![Daleay1TTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/536b6b40-2f17-4c6a-a947-0844b3f43ffb)
+
+![Delay2TTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/3fdd12fa-6183-43d5-ac6e-684d3ad36589)
+
+![VinVoutTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/29c8ba35-7b60-4ffc-914f-ea8e8ad3e2d1)
+
+
+2. Negador CMOS CD4069
+
+![SeñalAplicadaTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/6cea19a7-4aa3-440d-8e02-f603fce455f7)
+
+![DelayCMOS](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/ae6023d1-a147-4932-9552-1ff8e6854182)
+
+![VinvVoutCMOS](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/780d3a0a-04b7-42bb-b1f4-307ea55c38f5)
 
 
 
