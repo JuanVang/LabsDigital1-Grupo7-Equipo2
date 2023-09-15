@@ -38,7 +38,7 @@ Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se
 
 1. Negador TTL 74LS04 <br />
 ![SeñalAplicadaTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/51ab7fee-34f5-4a9c-8a5a-0cd806725db7)
-<center textwidth=10> Señal cuadrada aplicada al negador TTL 74LS04 </center>
+<center> Señal cuadrada aplicada al negador TTL 74LS04 </center>
 
 ![Daleay1TTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/536b6b40-2f17-4c6a-a947-0844b3f43ffb)
 
