@@ -37,24 +37,25 @@ Consultando la informacion dada por distintos fabricantes se encontro las siguie
 Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se conecto una resistencia de --- Ohms a la entrada y una resistencia de --- Ohms a la salida, los resultados obtenidos al observar la señal en el osciloscopio son: <br />
 
 1. Negador TTL 74LS04 <br />
+* Señal cuadrada aplicada al negador TTL 74LS04
 ![SeñalAplicadaTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/51ab7fee-34f5-4a9c-8a5a-0cd806725db7)
-<center> Señal cuadrada aplicada al negador TTL 74LS04 </center>
 
+* Tiempo de retado negador TTL 74LS04<br />
 ![Daleay1TTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/536b6b40-2f17-4c6a-a947-0844b3f43ffb)
 
 ![Delay2TTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/3fdd12fa-6183-43d5-ac6e-684d3ad36589)
 
 Deacuerdo con los resultados obtenidos se pudo determinar que el tiempo de retardo entre estados del negador TTL 74LS04 ronda el valor de los 20-25 [ns]
-
+* Vin vs Vout negador TTL 74LS04 <br />
 ![VinVoutTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/29c8ba35-7b60-4ffc-914f-ea8e8ad3e2d1)
 
 
 2. Negador CMOS CD4069
-
+* Señal cuadrada aplicada al negador CMOS CD4069<br />
 ![SeñalAplicadaTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/6cea19a7-4aa3-440d-8e02-f603fce455f7)
-
+* Tiempo de retado negador CMOS CD4069<br />
 ![DelayCMOS](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/ae6023d1-a147-4932-9552-1ff8e6854182)
-
+* Vin vs Vout negador CMOS CD4069 <br />
 ![VinvVoutCMOS](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/780d3a0a-04b7-42bb-b1f4-307ea55c38f5)
 
 Deacuerdo con los resultados obtenidos se pudo determinar que el tiempo de retardo entre estados del negador CMOS CD4069 ronda el valor de los 130-140 [ns]
