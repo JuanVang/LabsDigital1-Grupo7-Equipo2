@@ -48,10 +48,10 @@ Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se
 
  |       | Negador TTL 74LS04 |
  |-------|--------------------|
- | VIH   | xxxx |
- | VIL   | xxxx |
- | VOH   | xxxx |
- | VOL   | xxxx |
+ | VIH   | 5.0 V |
+ | VIL   | 2.2 V |
+ | VOH   | 0.002 V |
+ | VOL   | 4.9 V |
 
 
 * Tiempo de retado negador TTL 74LS04<br />
