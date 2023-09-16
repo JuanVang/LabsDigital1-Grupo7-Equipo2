@@ -141,3 +141,11 @@ Low-state Fan out= $\frac{I_{OL}}{I_{IL}} = \frac{1mA}{0.25uA} = 4000$
   $P_{D}=5*190uA= 0.1mW$
 
 ### CIrcuito propuesto para cada negador
+
+![image](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/26443961/88009031-1159-4d91-bc38-732367df7a00)
+
+Este circuito se propone respecto al de la simulación con las siguientes caracteristicas:
+1.El valor de la resistencia de entrada se cambia a 50 Ohms para coincidir con las condiciones de impedancia del generador de señales del laboratorio.  
+2.La carga se establece en 1Mohm en relacion a la impedancia del osciloscopio, al tiempo que se busca que la caida de tensión en dicha carga sea mucho mas grande que la caida de tensión de la impedancia de salida del integrado. 
+
+
