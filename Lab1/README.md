@@ -50,6 +50,12 @@ Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se
 ![Delay2TTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/3fdd12fa-6183-43d5-ac6e-684d3ad36589)
 
 Deacuerdo con los resultados obtenidos se pudo determinar que el tiempo de retardo entre estados del negador TTL 74LS04 ronda el valor de los 20-25 [ns]
+ |       | Negador TTL 74LS04 |
+ |-------|--------------------|
+ | VCC   | MIN=4.5V  NOM=5V  MAX=5.5V |
+ | VCC   | MIN=4.5V  NOM=5V  MAX=5.5V |
+ | VCC   | MIN=4.5V  NOM=5V  MAX=5.5V |
+
 * Vin vs Vout negador TTL 74LS04 <br />
 ![VinVoutTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/29c8ba35-7b60-4ffc-914f-ea8e8ad3e2d1)
 
