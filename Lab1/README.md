@@ -41,12 +41,13 @@ La simulación presentada a continuación se realizo teniendo en cuenta las sigu
 1. La polarización de entrada se hizo directamente al generador para que al chip entre la onda completa.  
 2. La polarización de salida se realizó con una carga de 10kohm. Esto teniendo en cuenta que sin carga el componente quedaria en alta impedancia y nos daria una lectura incorrecta.  
 3. Las condiciones a temperatura ambiente de alimentación se tomarón del datasheet respectivamente de cada chip.
+4. Para cada simulación se aplicó una señal cuadrada de 1KHz a 5V pico. 
 
 ![image](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/26443961/f961cb32-58c7-407c-aec2-508fa6261c05)
 
 De acuerdo con la simulación observamos lo siguiente:  
 1. Con las mismas condiciones de carga, el TTL presenta una caida de tensión mas alta (1.5v aprox) respecto al CMOS (0,2v aprox), lo que se traduce en un mayor consumo por parte del TTL  
-2. A pesar de que no es apreciable los tiempos de subida y bajada de la señal de salida(la de entrada se controla por simulación) si es notorio los tiempos de retardo de ambas señales; para el TTL es de aprox 5ns y para el CMOS de 130ns aprox, lo que nos indica que el TTL es mucho más rápido.  
+2. A pesar de que no es apreciable los tiempos de subida y bajada de la señal de salida(la de entrada se controla por simulación) si es notorio los tiempos de retardo de la señal de salida respecto a la de entrada; para el TTL es de aprox 5ns y para el CMOS de 130ns aprox, lo que nos indica que el TTL es mucho más rápido.  
 
 
 
