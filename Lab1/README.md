@@ -89,5 +89,39 @@ Deacuerdo con los resultados obtenidos se pudo determinar que el tiempo de retar
 
 ## Parte 2
 ### Determinación del FanIn y FanOut
+* ### Negador TTL 74LS04
+  
+ Para el Negador TTL 74LS04 se tienen los siguientes valores:
+
+ |       | Negador TTL 74LS04 |
+ |-------|--------------------|
+ | IIH  | 20uA a VCC=5V, VI=2.7V |
+ | IOH   | -0.4mA VCC =5V |
+ | IIL   | -0.4mA VCC=5V VI=0.4V|
+ | IOL   | 8 mA VCC=5V |
+
+ De acuerdo con estos datos el Fan out que se determino para el Negador TTL 74LS04 fue:
+
+High-state Fan out= $\frac{I_{OH}}{I_{IH}} = \frac{-0.4mA}{20uA} = |-20| = 20$
+
+Low-state Fan out= $\frac{I_{OL}}{I_{IL}} = \frac{8mA}{-0.4mA} = |-20| = 20$
+
+* ### Negador CMOS CD4069
+  
+ |       | Negador CMOS CD4069 |
+ |-------|--------------------|
+ | IIL   | 0.25uA VDD=5V VI=0V-5V|
+ | IOL   |  1mA VDD=5V |
+
+De acuerdo con estos datos el Fan out que se determino para el Negador CMOS CD4069 fue:
+
+Low-state Fan out= $\frac{I_{OL}}{I_{IL}} = \frac{1mA}{0.25uA} = 4000$
+
 ### Determinación de disipación de potencia
+
+* ### Negador TTL 74LS04
+  
+  $I_{CC}=\frac{20uA-0.4mA}{2}=|190mA|$
+  $P_{D}=5*190uA= 0.1mW$
+
 ### CIrcuito propuesto para cada negador
