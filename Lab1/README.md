@@ -46,6 +46,8 @@ Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se
 * Señal cuadrada aplicada al negador TTL 74LS04
 ![SeñalAplicadaTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/51ab7fee-34f5-4a9c-8a5a-0cd806725db7)
 
+Con ayuda de una resistencia variable se determinaron los siguientes valores:
+
  |       | Negador TTL 74LS04 |
  |-------|--------------------|
  | VIH   | 3.2 - 5.0 V |
@@ -69,12 +71,14 @@ Deacuerdo con los resultados obtenidos se pudo determinar que el tiempo de retar
 * Señal cuadrada aplicada al negador CMOS CD4069<br />
 ![SeñalAplicadaTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/6cea19a7-4aa3-440d-8e02-f603fce455f7)
 
+Con ayuda de una resistencia variable se determinaron los siguientes valores:
+
  |       | Negador CMOS CD4069 |
  |-------|--------------------|
- | VIH   | xxxx |
- | VIL   | xxxx |
- | VOH   | xxxx |
- | VOL   | xxxx |
+ | VIH   | 4.0 - 5.0 V |
+ | VIL   | 0 - 1.2 V |
+ | VOH   | 4.9  V |
+ | VOL   | 0.04 V |
 
 * Tiempo de retado negador CMOS CD4069<br />
 ![DelayCMOS](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/ae6023d1-a147-4932-9552-1ff8e6854182)
