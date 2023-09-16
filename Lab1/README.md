@@ -33,6 +33,10 @@ Consultando la informacion dada por distintos fabricantes se encontro las siguie
 2. Negador CMOS CD4069 <br />
 ![Circ4069](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/8ece8593-0b39-4f53-866c-982a0fce9f96)
 
+### Resultados de la simulación
+![image](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/26443961/c238705f-a747-4272-a427-2bbe9d213bce)
+
+
 ### Resultados obtenidos al aplicar una señal cuadrada de 1KHz a cada negador
 Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se conecto una resistencia de --- Ohms a la entrada y una resistencia de --- Ohms a la salida, los resultados obtenidos al observar la señal en el osciloscopio son: <br />
 
