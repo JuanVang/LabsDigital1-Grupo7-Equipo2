@@ -52,7 +52,7 @@ De acuerdo con la simulación observamos lo siguiente:
 
 
 ### Resultados obtenidos al aplicar una señal cuadrada de 1KHz a cada negador
-Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se conecto una resistencia de --- Ohms a la entrada y una resistencia de --- Ohms a la salida, los resultados obtenidos al observar la señal en el osciloscopio son: <br />
+Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se conecto una resistencia de 50 Ohms a la entrada y una resistencia de 10k Ohms a la salida, los resultados obtenidos al observar la señal en el osciloscopio son: <br />
 
 1. Negador TTL 74LS04 <br />
 * Señal cuadrada aplicada al negador TTL 74LS04
