@@ -50,6 +50,10 @@ De acuerdo con la simulación observamos lo siguiente:
 2. A pesar de que no es apreciable los tiempos de subida y bajada de la señal de salida(la de entrada se controla por simulación) si es notorio los tiempos de retardo de la señal de salida respecto a la de entrada; para el TTL es de aprox 5ns y para el CMOS de 130ns aprox, lo que nos indica que el TTL es mucho más rápido.  
 
 
+## Implementación del circuito
+
+Para comparar los resultados obtenidos con el simulador, se replicó el circuito como se muestra en la siguiente imagen:
+![WhatsApp Image 2023-09-08 at 12 11 16 PM](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/26443961/319de355-7c51-43b8-a624-e02c2f54d442)
 
 ### Resultados obtenidos al aplicar una señal cuadrada de 1KHz a cada negador
 Para cada negador se realizo un montaje en donde se alimento cada CI con 5v y se conecto una resistencia de 50 Ohms a la entrada y una resistencia de 10k Ohms a la salida, los resultados obtenidos al observar la señal en el osciloscopio son: <br />
