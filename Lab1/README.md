@@ -1,5 +1,7 @@
 # COMPARACIÓN DE TECNOLOGÍA CMOS Y TTL
 
+## Parte 1
+
 ### Especificaciones tecnicas de cada tecnologia
 
 Consultando la informacion dada por distintos fabricantes se encontro las siguientes caracteristicas de operacion para cada negador.
@@ -67,7 +69,7 @@ Deacuerdo con los resultados obtenidos se pudo determinar que el tiempo de retar
 * Señal cuadrada aplicada al negador CMOS CD4069<br />
 ![SeñalAplicadaTTL](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/6cea19a7-4aa3-440d-8e02-f603fce455f7)
 
- |       | Negador TTL 74LS04 |
+ |       | Negador CMOS CD4069 |
  |-------|--------------------|
  | VIH   | xxxx |
  | VIL   | xxxx |
@@ -81,3 +83,7 @@ Deacuerdo con los resultados obtenidos se pudo determinar que el tiempo de retar
 
 Deacuerdo con los resultados obtenidos se pudo determinar que el tiempo de retardo entre estados del negador CMOS CD4069 ronda el valor de los 130-140 [ns]
 
+## Parte 2
+### Determinación del FanIn y FanOut
+### Determinación de disipación de potencia
+### CIrcuito propuesto para cada negador
