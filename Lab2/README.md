@@ -30,6 +30,23 @@ Para los datos de prueba es necesario editar un texto dónde se tengan los valor
 ![resultPrueba](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/d59d62ad-6ce1-4a67-a71b-17fee52045ea)
 
 ## Simulación del Circuito Digital con iVerilog y Gtkwave
+Para la realización de un Sumador Restador de 4 bits en iverilog es necesario haber definido el sumador completo y el medio sumador, estos fueron editados con la herramienta geany, a continuación sus respectivos códigos:
+
+### Descripción del código en verilog:
+
+#### Código para el medio sumador:
+![halfAdderVerilog](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/384749a6-9844-44ff-b492-c12d3a300b18)
+#### Código para el sumador completo:
+![fullAdderVerilog](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/83d7fee5-fbe0-413c-80f8-fd79486606d8)
+#### Código para el Sumador Restador de 4 bits:
+![fa4bitsVerilog](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/6453d95b-01fd-4739-8ea5-90a1e0f45952)
+
+En este punto, el Sumador Restador, está casi completo, sin embargo, al restar un número más grande(de modo que el número sea negativo) el resultado es el complemento del número. Para solucionar esto se añadió otro Sumador Restador que arrojara como resultado el resultado de la resta y un indicador para su signo. A este archivo se le ha nombrado fa4bit_top.
+
+#### Código para el Sumador Restador de 4 bits top:
+![fa4bitstopverilog](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/b8c3f4a7-84e3-4bda-8250-5c85adcb9d52)
+
+### Creación de los testbench:
 
 
 
