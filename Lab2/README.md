@@ -48,6 +48,7 @@ En este punto, el Sumador Restador, está casi completo, sin embargo, al restar 
 
 ### Creación de los testbench:
 A continuación los códigos desplegables para el Sumador Restador, tanto el que muestra el complemento cómo el que muestra el número y su signo. Al ser tan largos, se optó por dejar el código completo y no una imagen del mismo. 
+Para el mejor entendimiento de los testbench, cabe resaltar que la cifra más significativa en cada número es la que lleva el número 3, y cuándo el signo es negativo, el indicador signo es un 1.
 <details>
 <summary>Ver código del testbench para el fa4bits</summary>
 	
@@ -325,3 +326,5 @@ RTL_COMMAND?='read_verilog $(DESIGN);\
 </details>
 
 ### Resultados gráficos con la herramienta GTK wave:
+![SimulaciónGTK](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/3651b61e-bcf1-4425-9472-bb9701116116)
+
