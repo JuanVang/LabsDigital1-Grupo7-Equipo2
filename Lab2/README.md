@@ -48,7 +48,7 @@ En este punto, el Sumador Restador, está casi completo, sin embargo, al restar 
 
 ### Creación de los testbench:
 <details>
-<summary>Ver código del testbench>
+<summary>Ver código del testbench</summary>
 	
 ```
 module fa4bits_tb;
