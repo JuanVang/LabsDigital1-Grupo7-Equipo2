@@ -47,6 +47,7 @@ En este punto, el Sumador Restador, está casi completo, sin embargo, al restar 
 ![fa4bitstopverilog](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/b8c3f4a7-84e3-4bda-8250-5c85adcb9d52)
 
 ### Creación de los testbench:
+<pre>
 ```
 module fa4bits_tb;
 //registros de entradas
@@ -119,7 +120,7 @@ module fa4bits_tb;
   end
 endmodule
 ```
-
+</pre>
 
 
 
