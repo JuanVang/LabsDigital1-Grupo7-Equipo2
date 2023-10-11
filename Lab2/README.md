@@ -326,5 +326,6 @@ RTL_COMMAND?='read_verilog $(DESIGN);\
 </details>
 
 ### Resultados gráficos con la herramienta GTK wave:
-![SimulaciónGTK](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/3651b61e-bcf1-4425-9472-bb9701116116)
+![SimulaciónGTK](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/95b80add-6304-4c91-b51b-8bb7495d3a29)
+
 
