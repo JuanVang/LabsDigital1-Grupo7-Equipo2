@@ -11,8 +11,18 @@ Con la simulación realizada, en la sección de análisis se puede encontrar la 
 ![ecuacionesAlgebraicas](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/8d47ad6e-23c8-4bbf-9d39-596880034a21)
 ### Mapas de Karnaugh:
 #### Mapa para S:
-![mapa](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/94426992-19de-4d56-9212-85984d0baf41)
-#### Mapa para Co:
 ![mapa2](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/7d1483ea-cc1e-4783-8d1c-19e358c9d2e3)
+#### Mapa para Co:
+![mapa](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/94426992-19de-4d56-9212-85984d0baf41)
+### Casos de prueba:
+#### Archivo de Texto con los datos de la prueba:
+![txtprueba](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/1da0c63d-f196-49cd-8747-1ba031104b9d)
+#### Resultados de la prueba Realizada:
+![resultPrueba](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/d59d62ad-6ce1-4a67-a71b-17fee52045ea)
 
-### Casos de prueba::
+## Simulación del Circuito Digital con iVerilog y Gtkwave
+
+
+
+
+
