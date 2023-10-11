@@ -10,7 +10,9 @@ Con la simulación realizada, en la sección de análisis se puede encontrar la 
 ### Expresión Algebraica asociada al circuito:
 ![ecuacionesAlgebraicas](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/8d47ad6e-23c8-4bbf-9d39-596880034a21)
 ### Mapas de Karnaugh:
-![mapa](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/7b48eb02-59e0-4fc8-ab83-511a9016b234)
-![mapa2](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/ff6ed341-6bba-4777-b3b8-e9e356954cf1)
+#### Mapa para S:
+![mapa](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/94426992-19de-4d56-9212-85984d0baf41)
+#### Mapa para Co:
+![mapa2](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/79612708/7d1483ea-cc1e-4783-8d1c-19e358c9d2e3)
 
 ### Casos de prueba::
