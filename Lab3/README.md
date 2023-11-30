@@ -1,4 +1,4 @@
-##IMPLEMENTACION DEL SUMADOR RESTADOR EN FPGA
+## IMPLEMENTACION DEL SUMADOR RESTADOR EN FPGA
 
 
 Para esta practica se implemento el sumador/restador de 4 bits desarrollado en la practica anterior, con el fin de visualizar la operacion correspondiente en dos displays siete segmentos, una para las unidades y otro para las decenas.
