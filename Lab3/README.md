@@ -1,4 +1,5 @@
-![BinarytoBCD](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/847894a8-4185-494c-bb9c-cb263181fc07)# SUMADOR/RESTADOR DE 4 BITS CON VISUALIZACION EN DISPLAY
+##IMPLEMENTACION DEL SUMADOR RESTADOR EN FPGA
+
 
 Para esta practica se implemento el sumador/restador de 4 bits desarrollado en la practica anterior, con el fin de visualizar la operacion correspondiente en dos displays siete segmentos, una para las unidades y otro para las decenas.
 Para esto se realizo la descripcion del siguiente circuito en el lenguaje verilog.
