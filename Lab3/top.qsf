@@ -45,7 +45,24 @@ set_global_assignment -name PROJECT_CREATION_TIME_DATE "08:31:59  SEPTEMBER 08, 
 set_global_assignment -name LAST_QUARTUS_VERSION "22.1std.2 Lite Edition"
 
 #Entradas
-set_location_assignment PIN_90 -to a
-
+set_location_assignment PIN_23 -to reloj_entrada
+#set_location_assignment PIN_91 -to cin
+set_location_assignment PIN_90 -to oper
+set_location_assignment PIN_58 -to a[3]
+set_location_assignment PIN_59 -to a[2]
+set_location_assignment PIN_60 -to a[1]
+set_location_assignment PIN_64 -to a[0]
+set_location_assignment PIN_65 -to b[3]
+set_location_assignment PIN_66 -to b[2]
+set_location_assignment PIN_67 -to b[1]
+set_location_assignment PIN_68 -to b[0]
 #Salidas
-set_location_assignment PIN_30 -to b
+set_location_assignment PIN_127 -to seven_salida[0]
+set_location_assignment PIN_126 -to seven_salida[1]
+set_location_assignment PIN_125 -to seven_salida[2]
+set_location_assignment PIN_124 -to seven_salida[3]
+set_location_assignment PIN_121 -to seven_salida[4]
+set_location_assignment PIN_120 -to seven_salida[5]
+set_location_assignment PIN_119 -to seven_salida[6]
+set_location_assignment PIN_129 -to u
+set_location_assignment PIN_128 -to d
