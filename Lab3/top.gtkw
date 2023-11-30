@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.117 (w)1999-2023 BSI
+[*] Wed Nov 29 22:49:25 2023
+[*]
+[dumpfile] "/home/ssenshii/Documentos/Electrónica Digital/lab 3/sumador4bit/FPGA/sim/top.vcd"
+[dumpfile_mtime] "Wed Nov 29 22:49:01 2023"
+[dumpfile_size] 4440
+[savefile] "/home/ssenshii/Documentos/Electrónica Digital/lab 3/sumador4bit/FPGA/top.gtkw"
+[timestart] 0
+[size] 1366 700
+[pos] -1 -1
+*-5.755059 40 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbech.
+[treeopen] testbech.dut.
+[sst_width] 202
+[signals_width] 176
+[sst_expanded] 1
+[sst_vpaned_height] 247
+@28
+testbech.dut.reloj_entrada
+testbech.dut.reloj.clock_out
+@22
+testbech.a[3:0]
+testbech.b[3:0]
+@28
+testbech.dut.oper
+@22
+testbech.dut.dut.s[3:0]
+@28
+testbech.dut.dut.cout4
+@22
+testbech.dut.dut_1.bcdunits[3:0]
+testbech.dut.dut_1.bcdtens[3:0]
+testbech.dut.mux_1.bcd[3:0]
+@28
+testbech.dut.seven_segm.seven_seg[6:0]
+[pattern_trace] 1
+[pattern_trace] 0
