@@ -1,4 +1,4 @@
-# SUMADOR/RESTADOR DE 4 BITS CON VISUALIZACION EN DISPLAY
+![BinarytoBCD](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/847894a8-4185-494c-bb9c-cb263181fc07)# SUMADOR/RESTADOR DE 4 BITS CON VISUALIZACION EN DISPLAY
 
 Para esta practica se implemento el sumador/restador de 4 bits desarrollado en la practica anterior, con el fin de visualizar la operacion correspondiente en dos displays siete segmentos, una para las unidades y otro para las decenas.
 Para esto se realizo la descripcion del siguiente circuito en el lenguaje verilog.
@@ -39,7 +39,8 @@ El circuito para el multiplexor y el demultiplexor es:
 
 Este modulo toma la salida del Sumador/Restador de 4 bits, separa las unidades de las decenas mediante una division y las codifica en codigo BCD, el circuito de este modulo es:
 
-![BINtioBCD](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/34a819d8-9523-487c-bd17-596e1048bb87)
+![BinarytoBCD](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/d3ad8fc6-ce1e-4d6c-af31-ffa15e076cd5)
+
 
 - Divisor de frecuencia (Clock)
 
@@ -51,7 +52,9 @@ Este modulo toma la frecuencia de entrada de la FPGA y entrega la frecuencia des
 
 Este modulo toma el codigo BCD para unidades y Decenas y la codifica para enviar una señal de 7 bits a los displays
 
-## SIMULACION
+![seven_seg_decoder](https://github.com/JuanVang/LabsDigital1-Grupo7-Equipo2/assets/73542998/b7b41278-f07e-4b35-92e1-b03d89774822)
+
+
 
 
   
